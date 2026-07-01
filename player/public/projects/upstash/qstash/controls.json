@@ -1,0 +1,8 @@
+{
+  "controls": [
+    {
+      "sid": "badgeColor",
+      "label": "Badge color"
+    }
+  ]
+}
