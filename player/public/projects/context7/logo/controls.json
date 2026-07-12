@@ -1,0 +1,12 @@
+{
+  "controls": [
+    {
+      "sid": "brandColor",
+      "label": "Tile color"
+    },
+    {
+      "sid": "textColor",
+      "label": "Wordmark color"
+    }
+  ]
+}
